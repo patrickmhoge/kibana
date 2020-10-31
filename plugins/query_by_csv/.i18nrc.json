@@ -1,0 +1,7 @@
+{
+  "prefix": "queryByCsv",
+  "paths": {
+    "queryByCsv": "."
+  },
+  "translations": ["translations/ja-JP.json"]
+}

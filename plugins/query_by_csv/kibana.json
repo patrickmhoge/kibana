@@ -1,9 +1,0 @@
-{
-  "id": "queryByCsv",
-  "version": "1.0.0",
-  "kibanaVersion": "kibana",
-  "server": false,
-  "ui": true,
-  "requiredPlugins": ["navigation"],
-  "optionalPlugins": []
-}
